@@ -2,4 +2,3 @@ py-cord
 Flask
 python-dotenv
 gTTS
-functools
